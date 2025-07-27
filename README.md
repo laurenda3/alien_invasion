@@ -1,10 +1,10 @@
 # 👾 Alien Invasion Game
 
-A classic arcade-style shooter built with Python and Pygame, where you pilot a ship to defend Earth from waves of alien invaders.
+A classic arcade-style shooter built with Python and Pygame, where you pilot a ship to defend Earth from alien invaders.
 
 ---
 
-<img src="images/a1.png" alt="Gameplay Screenshot 1" width="500"/>
+<img src="images/a2.png" alt="Gameplay Screenshot 1" width="500"/>
 
 ## 🎮 How to Play
 
@@ -12,14 +12,14 @@ A classic arcade-style shooter built with Python and Pygame, where you pilot a s
 * Press spacebar to shoot bullets
 * Destroy all aliens before they reach the bottom to advance
 
-<img src="images/a2.png" alt="Gameplay Screenshot 1" width="500"/>
-
 ---
 
 ## 🚀 Features
 
 * Smooth controls and shooting
 * Score tracking and game over conditions
+
+<img src="images/a1.png" alt="Gameplay Screenshot 1" width="500"/>
 
 ---
 
